@@ -2,31 +2,31 @@
 
 ## Запуск Сервера
 
-![Alt text](https://imgur.com/r5bhuEU.jpeg)
+![Alt text](https://i.imgur.com/L05kQ5u.png)
 
 ## Тестування для користувача
 
 ### GET /users
 
-![Alt text](https://imgur.com/lx8u7ek.jpeg)
+![Alt text](https://i.imgur.com/2XhKZMn.png)
 
 ### GET /users/:id
 
-![Alt text](https://imgur.com/ywkxWyB.jpeg)
+![Alt text](https://i.imgur.com/XtHiEdn.png)
 
 ### POST /users
 
-![Alt text](https://imgur.com/i490k3i.jpeg)
-![Alt text](https://imgur.com/r495a7C.jpeg)
+![Alt text](https://i.imgur.com/RfoC9mx.png)
+![Alt text](https://i.imgur.com/eq3UvDC.png)
 
 ### PUT /users/:id
 
-![Alt text](https://imgur.com/OtNnqBu.jpeg)
-![Alt text](https://imgur.com/jfiNAE3.jpeg)
+![Alt text](https://i.imgur.com/PN0e3Ne.png)
+![Alt text](https://i.imgur.com/LymaT0H.png)
 
 ### DELETE /users/:id
 
-![Alt text](https://imgur.com/XvuUH9I.jpeg)
-![Alt text](https://imgur.com/0wb1Ltr.jpeg)
+![Alt text](https://i.imgur.com/yqa5O1E.png)
+![Alt text](https://i.imgur.com/Hwo97G9.png)
 
 
